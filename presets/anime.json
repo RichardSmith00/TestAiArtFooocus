@@ -1,5 +1,5 @@
 {
-    "default_model": "animaPencilXL_v500.safetensors",
+    "default_model": "HentaiModel",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -44,7 +44,8 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "Perfect World": "https://civitai.com/api/download/models/179446?type=Model&format=SafeTensor&size=full&fp=fp32"
+        "HentaiModel": "https://civitai.com/api/download/models/347846?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+        "Furry MongiMix": "https://civitai.com/api/download/models/259397?type=Model&format=SafeTensor&size=full&fp=fp32"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
