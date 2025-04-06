@@ -47,9 +47,7 @@
         "Perfect World": "https://civitai.com/api/download/models/179446?type=Model&format=SafeTensor&size=full&fp=fp32"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {
-        "Hentai Protagonists": "https://civitai.com/api/download/models/1039807?type=Model&format=SafeTensor"
-    },
+    "lora_downloads": {},
     "previous_default_models": [
         "animaPencilXL_v400.safetensors",
         "animaPencilXL_v310.safetensors",
